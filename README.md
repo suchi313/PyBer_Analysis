@@ -17,3 +17,6 @@ The purpose of this challenge was to showcase and create the following:
 ## Results
 
 ### Summary DataFrame 
+![image](https://user-images.githubusercontent.com/102767530/179123190-752a350b-fde4-4baa-8f9b-f58993399cbd.png)
+1. As we review the summary there is a notable spike of usage from one environment - being Urban cities. The urban data showccased the most total drivers than total rides. This may have caused the the reduced impact due to supply and demand of drivers vs. riders. From the data, we can also note that Urban average Fare per Ride is notably reduced than Suburban and Rural drivers. 
+2. The Rural city data showed the opposite of the Urban Cities data. The rural city had fewer total drivers than total rides, which allowed to have the average fare per driver to be the highest. 
