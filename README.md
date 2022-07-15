@@ -31,7 +31,7 @@ The above data is a visual representation of the DataFrame. It showcases the tre
 
 ## Summary + Recommendations
 * The results of the summary reflected that the Urban City - though more compact, had the lowest average fare per ride and Rural Cities, since they have more land mass and locations are farther to reach, had the highest average fare per ride. 
-*Recommendation - Pyber should inlcude mileage in their fares - similiar to NYC Taxi Cabs. This will allow us to collect more data and analyze more insights*
+**Recommendation - PBber should inlcude mileage in their fares - similiar to NYC Taxi Cabs. This will allow us to collect more data and analyze more insights**
 
 * Review the data, since there was far less total drivers than total riders in the Urban city scape - it is implied the drivers didn't have much work to support their job. 
-*Recommendation - Pyber to amplify their marketing tactics to spread awareness of their business. This will attract more consumers. 
+**Recommendation - PyBer to amplify their marketing tactics to spread awareness of their business. This will attract more consumers.**
